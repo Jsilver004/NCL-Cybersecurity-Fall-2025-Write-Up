@@ -25,6 +25,13 @@ Recover plaintext passwords from given password hashes using password-cracking t
  ![VLAN Creation](screenshots/Maskwords.png)
 
  Given the known 8 characters and the 4 last characters were all digits, a mask attack was used to target only the unknown final 4 digits.
+ We can use hashcat -500 
+
+  ![VLAN Creation](screenshots/HashingHash1.png)
+
+   ![VLAN Creation](screenshots/CatHash1.png)
+
+ 
 
  This significantly reduced the search space while allowing Hashcat to recover the passwords efficiently and quickly.
 
