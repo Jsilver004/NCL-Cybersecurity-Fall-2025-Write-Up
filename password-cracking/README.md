@@ -22,7 +22,7 @@ Recover plaintext passwords from given password hashes using password-cracking t
 
  The first challenge consisted of password hashes that followed a revealed naming convention of ('SKY-MASK-####').
 
- ![VLAN Creation](../screenshots/Maskwords.png)
+ ![VLAN Creation](screenshots/Maskwords.png)
 
  Given the known 8 characters and the 4 last characters were all digits, a mask attack was used to target only the unknown final 4 digits.
 
