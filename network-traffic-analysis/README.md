@@ -31,13 +31,13 @@ The packet capture was examined to determine which host was responding to DNS re
 
 After identifying the DNS server, DNS requests were reviewed for unusual or suspicious domains. One domain stood out from normal traffic and appeared to be associated with a potentially malicious software installation.
 
-![VLAN Creation](screenshots/NetTraf1.png)
+![VLAN Creation](screenshots/NetTraf2.png)
 
 ### Step 3 - Analyze DNS Response
 
 The DNS response records were inspected to determine the destination IP address associated with the suspicious domain. Additonal DNS record information helped verify the service being used.
 
-![VLAN Creation](screenshots/NetTraf1.png)
+![VLAN Creation](screenshots/NetTraf3.png)
 
 
 ## Takeaways
