@@ -35,7 +35,7 @@ After identifying the DNS server, DNS requests were reviewed for unusual or susp
 
 ### Step 3 - Analyze DNS Response
 
-The DNS response records were inspected to determine the destination IP address associated with the suspicious domain. Additonal DNS record information helped verify the service being used.
+The DNS response records were inspected to determine the destination IP address associated with the suspicious domain. Additonal DNS record information helped verify the service being used (agentinstall.fleekdesk.io).
 
 ![VLAN Creation](screenshots/NetTraf3.png)
 
