@@ -24,19 +24,20 @@ Analyze captured network traffic to identify malicious infrastructure, DNS activ
 
 The packet capture was examined to determine which host was responding to DNS requests. By following the DNS query and response traffic the DNS server was identified based on its communication pattern.
 
-(SS. Inspection)
+  ![VLAN Creation](screenshots/NetTraf1.png)
+
 
 ### Step 2 - Investigate DNS Queries
 
 After identifying the DNS server, DNS requests were reviewed for unusual or suspicious domains. One domain stood out from normal traffic and appeared to be associated with a potentially malicious software installation.
 
-(SS)
+![VLAN Creation](screenshots/NetTraf1.png)
 
 ### Step 3 - Analyze DNS Response
 
 The DNS response records were inspected to determine the destination IP address associated with the suspicious domain. Additonal DNS record information helped verify the service being used.
 
-(SS)
+![VLAN Creation](screenshots/NetTraf1.png)
 
 
 ## Takeaways
