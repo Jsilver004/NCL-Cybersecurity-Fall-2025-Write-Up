@@ -46,7 +46,9 @@ Recover plaintext passwords from given password hashes using password-cracking t
 
  After preparing the hash file, a dictionary attack was perfomed using the 'Rockyou.txt' wordlist. This approach compared each candidate password against the supplied hashes until matching plaintext passwords were identified.
 
- (SS)
+  ![VLAN Creation](screenshots/NTML1.png)
+  ![VLAN Creation](screenshots/NTML2.png)
+
 
  ## Takeaways
 
