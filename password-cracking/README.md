@@ -48,10 +48,9 @@ Recover plaintext passwords from given password hashes using password-cracking t
 
   ![VLAN Creation](screenshots/NTLM1.png)
 
-  I first had to strip the first portion of the hash (pre-colon portion) then run a hashcat on the remaining hash:
+  I first had to strip the first portion of the hash (pre-colon portion) then run a hashcat 1000 on the remaining hash:
   
   ![VLAN Creation](screenshots/NTLM2.png)
-
 
  ## Takeaways
 
